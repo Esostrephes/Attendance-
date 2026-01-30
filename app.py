@@ -372,7 +372,7 @@ async def index():
 </head>
 <body>
     <div class="container">
-        <h1>🎭 Face Enrollment System</h1>
+        <h1> Face Enrollment System</h1>
         
         <div class="instruction">
             <p><strong>Instructions:</strong> Click "Start Enrollment" and slowly turn your head left and right. The system will capture different angles of your face.</p>
