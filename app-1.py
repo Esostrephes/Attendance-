@@ -31,7 +31,7 @@ try:
         cred_dict = json.loads(firebase_creds)
         cred = credentials.Certificate(cred_dict)
     else:
-        cred = credentials.Certificate("serviceAccountKey.json")
+        cred = credentials.Certificate("esosystem-48ef8-firebase-adminsdk-fbsvc-fa8acf9a93.json")
     
     firebase_admin.initialize_app(cred)
     db = firestore.client()
