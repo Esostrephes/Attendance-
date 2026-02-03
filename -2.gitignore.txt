@@ -24,7 +24,7 @@ wheels/
 *.egg
 
 # Firebase
-serviceAccountKey.json
+esosystem-48ef8-firebase-adminsdk-fbsvc-fa8acf9a93.json
 
 # IDE
 .vscode/
